@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TasksApp/static/css/main.906a7ecd.chunk.css",
+    "main.js": "/TasksApp/static/js/main.905e9c81.chunk.js",
+    "main.js.map": "/TasksApp/static/js/main.905e9c81.chunk.js.map",
+    "runtime-main.js": "/TasksApp/static/js/runtime-main.c51f8f7d.js",
+    "runtime-main.js.map": "/TasksApp/static/js/runtime-main.c51f8f7d.js.map",
+    "static/js/2.6da1fbc8.chunk.js": "/TasksApp/static/js/2.6da1fbc8.chunk.js",
+    "static/js/2.6da1fbc8.chunk.js.map": "/TasksApp/static/js/2.6da1fbc8.chunk.js.map",
+    "static/js/3.dba6cc09.chunk.js": "/TasksApp/static/js/3.dba6cc09.chunk.js",
+    "static/js/3.dba6cc09.chunk.js.map": "/TasksApp/static/js/3.dba6cc09.chunk.js.map",
+    "index.html": "/TasksApp/index.html",
+    "static/css/main.906a7ecd.chunk.css.map": "/TasksApp/static/css/main.906a7ecd.chunk.css.map",
+    "static/js/2.6da1fbc8.chunk.js.LICENSE.txt": "/TasksApp/static/js/2.6da1fbc8.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/TasksApp/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c51f8f7d.js",
+    "static/js/2.6da1fbc8.chunk.js",
+    "static/css/main.906a7ecd.chunk.css",
+    "static/js/main.905e9c81.chunk.js"
+  ]
+}
